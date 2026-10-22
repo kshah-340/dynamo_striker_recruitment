@@ -6,7 +6,7 @@
 "Provide feedback on these proposed weights for attribute scoring in the following categories among MLS forwards."
 
 ## Visualization
-"Generate Python code to create a radar chart comparing shortlisted players across selected performance metrics using mplsoccer."
+"Optimize this code snippet used to create a radar chart comparing shortlisted players across selected performance metrics in mplsoccer."
 
 "Suggest a way to add labels to a busy scatterplot without overlapping text."
 
